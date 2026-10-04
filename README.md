@@ -6,7 +6,7 @@
 - [LAPITORES](https://lapitores-lt.com/) — browser-based 3D point cloud viewer
 - Open source: [ZDrape](https://github.com/icony-research/zdrape), [MICHI-AI](https://github.com/icony-research/michi-ai), [LandXML2Tri](https://github.com/icony-research/LandXML2Tri)
 
-## Patents
+## Patents(inventor; assignee: ICONYAMATO Co., Ltd.)
 - [JP6730501]— Automatic drafting from point clouds (granted)
 - [JP6730502]— Point cloud distribution visualization (granted)
 
